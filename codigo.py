@@ -1,5 +1,5 @@
-nom = "soy"
+nom = "Michael Felipe"
 apellido = "Vallejos"
 
-saludar=("Hola "+ nom +" su apellido es "+ apellido ," ¿como estas?")
+saludar=("Hola "+nom+" "+apellido+" ¿como estas?")
 print(saludar)
